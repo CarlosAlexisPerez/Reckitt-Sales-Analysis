@@ -55,9 +55,39 @@ El dashboard incluye:
 
 # 🖼️ Visualizaciones
 
-## Vista General del Dashboard
+## Dashboard de Ventas
 
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/dashboard_ventas.png)
+
+---
+
+## Dashboard de Análisis de Productos
+
+![Dashboard](images/dashboard_analisis_productos.png)
+
+---
+
+## Tendencia de Ventas
+
+![Dashboard](images/tendencia_ventas_en_el_tiempo.png)
+
+---
+
+## Análisis Regional
+
+![Dashboard](images/distribución_unidades_vendidas_region.png)
+
+---
+
+## Promedio de Ventas por Cluster
+
+![Dashboard](images/promedio_ventas_cluster.png)
+
+---
+
+## Predicción de Ventas
+
+![Dashboard](images/prediccion_ventas.png)
 
 ---
 
